@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ALC4.0 Phase 1</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="my_profile">MY PROFILE</string>
+
+    <!--My Profile-->
+    <string name="name">Name:</string>
+    <string name="my_name">Nsubuga Mutebi Grace</string>
+    <string name="track">Track:</string>
+    <string name="track_name">Android</string>
+    <string name="Country">Country:</string>
+    <string name="country_name">Uganda</string>
+    <string name="email">Email:</string>
+    <string name="email_add">amgraymofficial@gmail.com</string>
+    <string name="phone">Phone Number</string>
+    <string name="phone_number">+256789341535</string>
+    <string name="slack">Slack Username</string>
+    <string name="slack_name">\@Nsubuga Mutebi Grace</string>
+    <string name="imageDescription">A Profile picture of Grace</string>
+
+</resources>
